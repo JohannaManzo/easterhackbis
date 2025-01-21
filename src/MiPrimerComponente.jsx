@@ -1,7 +1,7 @@
 function MiPrimerComponente() {
     return ( 
         <> 
-        <h1>Primer componente</h1>
+        <h1>Primer componente PELOTUDO</h1>
         </>
      );
 }
